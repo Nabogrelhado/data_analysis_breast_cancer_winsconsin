@@ -73,7 +73,7 @@ Ensure all necessary Python packages from the `requirements.txt` file are instal
 Contributions are welcome. To contribute, please fork the repository, make your changes, and submit a pull request. Feel free to help me implement my code, I'm a newbie, so any kinds of insights and improvement are welcome.
 
 ## License
-This project is released under the MIT License.
+This project has no license.
 
 ## Acknowledgments
 Thanks to the UCI Machine Learning Repository for providing the dataset used in this project.
